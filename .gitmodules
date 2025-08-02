@@ -1,6 +1,4 @@
-[submodule "librerias-usadas/submodulos"]
-	path = librerias-usadas/submodulos
-	url = https://github.com/2025A-Constr-SWGR2/ConstGR2-chiluiza-chango-anthony-francisco.git
+
 [submodule "submodulos"]
 	path = submodulos
 	url = https://github.com/2025A-Constr-SWGR2/ConstGR2-chiluiza-chango-anthony-francisco.git
